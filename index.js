@@ -4,7 +4,7 @@ import fs from 'fs';
 // Global trade item number (14)
 let gtin = '00199284991309'
 // YYMMDD
-let manufacture_date = '250919';
+let manufacture_date = '251001';
 // 0-20 long
 let batch_or_lot = '1';
 // 0-20 long
